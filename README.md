@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-  <a href="https://github.com" target="_blank" style="text-decoration: none;">
+  <a href="https://blogvakti.com" target="_blank" style="text-decoration: none;">
     <span style="display: inline-block; background-color: white; color: #FF5733; padding: 15px 30px; font-size: 20px; font-weight: bold; border-radius: 10px; cursor: pointer; text-transform: uppercase; border: 2px solid #FF5733;">
       GİRİŞ YAP
     </span>
