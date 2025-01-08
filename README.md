@@ -1,7 +1,12 @@
 <h1 align="center">
-  Hoş Geldiniz!  
-  <a href="https://github.com" target="_blank">
-    <img src="https://img.shields.io/badge/Giriş%20Yap-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Giriş Yap">
+  İstanbul Escort
+</h1>
+
+<h1 align="center">
+  <a href="https://github.com" target="_blank" style="text-decoration: none;">
+    <span style="display: inline-block; background-color: #ff5733; color: white; padding: 15px 30px; font-size: 20px; font-weight: bold; border-radius: 10px; cursor: pointer; text-transform: uppercase;">
+      Escortları görmek için Tıkla
+    </span>
   </a>
 </h1>
 
@@ -10,6 +15,30 @@
     <img src="https://trainingblog.xyz/details/imgnewpage/1.jpg" alt="Resim 1" style="border-radius: 10px; max-width: 45%; min-width: 300px;">
   </a>
   <a href="https://github.com">
-    <img src="https://trainingblog.xyz/details/imgnewpage/1.jpg" alt="Resim 2" style="border-radius: 10px; max-width: 45%; min-width: 300px;">
+    <img src="https://trainingblog.xyz/details/imgnewpage/2.jpg" alt="Resim 2" style="border-radius: 10px; max-width: 45%; min-width: 300px;">
+  </a>
+  <a href="https://github.com">
+    <img src="https://trainingblog.xyz/details/imgnewpage/3.jpg" alt="Resim 2" style="border-radius: 10px; max-width: 45%; min-width: 300px;">
+  </a>
+  <a href="https://github.com">
+    <img src="https://trainingblog.xyz/details/imgnewpage/4.jpg" alt="Resim 2" style="border-radius: 10px; max-width: 45%; min-width: 300px;">
+  </a>
+  <a href="https://github.com">
+    <img src="https://trainingblog.xyz/details/imgnewpage/5.jpg" alt="Resim 2" style="border-radius: 10px; max-width: 45%; min-width: 300px;">
+  </a>
+  <a href="https://github.com">
+    <img src="https://trainingblog.xyz/details/imgnewpage/6.jpg" alt="Resim 2" style="border-radius: 10px; max-width: 45%; min-width: 300px;">
+  </a>
+  <a href="https://github.com">
+    <img src="https://trainingblog.xyz/details/imgnewpage/7.jpg" alt="Resim 2" style="border-radius: 10px; max-width: 45%; min-width: 300px;">
+  </a>
+  <a href="https://github.com">
+    <img src="https://trainingblog.xyz/details/imgnewpage/8.jpg" alt="Resim 2" style="border-radius: 10px; max-width: 45%; min-width: 300px;">
+  </a>
+  <a href="https://github.com">
+    <img src="https://trainingblog.xyz/details/imgnewpage/9.jpg" alt="Resim 2" style="border-radius: 10px; max-width: 45%; min-width: 300px;">
+  </a>
+  <a href="https://github.com">
+    <img src="https://trainingblog.xyz/details/imgnewpage/10.jpg" alt="Resim 2" style="border-radius: 10px; max-width: 45%; min-width: 300px;">
   </a>
 </div>
