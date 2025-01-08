@@ -2,7 +2,9 @@
 
 [![Giriş Yap](https://img.shields.io/badge/Giriş%20Yap-%230077B5?style=for-the-badge)](#)
 
-![Örnek Resim](https://via.placeholder.com/800x400.png?text=Örnek+Resim)
+![Örnek Resim](https://trainingblog.xyz/details/imgnewpage/1.jpg)
+![Örnek Resim](https://trainingblog.xyz/details/imgnewpage/2.jpg)
+![Örnek Resim](https://trainingblog.xyz/details/imgnewpage/3.jpg)
 
 ## Hakkında
 Bu proje, kullanıcılara hızlı ve kolay bir başlangıç sağlamayı hedeflemektedir. Yukarıdaki butona tıklayarak giriş yapabilirsiniz.
