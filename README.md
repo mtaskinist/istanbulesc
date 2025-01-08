@@ -13,3 +13,13 @@
     <img src="https://trainingblog.xyz/details/imgnewpage/1.jpg" alt="Örnek Resim" style="border-radius: 10px; max-width: 100%;">
   </a>
 </p>
+<p align="center">
+  <a href="https://blogvakti.com">
+    <img src="https://trainingblog.xyz/details/imgnewpage/2.jpg" alt="Örnek Resim" style="border-radius: 10px; max-width: 100%;">
+  </a>
+</p>
+<p align="center">
+  <a href="https://blogvakti.com">
+    <img src="https://trainingblog.xyz/details/imgnewpage/3.jpg" alt="Örnek Resim" style="border-radius: 10px; max-width: 100%;">
+  </a>
+</p>
