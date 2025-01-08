@@ -1,10 +1,8 @@
-<h1 align="center">Hoş Geldiniz!</h1>
+<h1 align="center">İstanbul Escort</h1>
 
 <p align="center">
-  <a href="https://github.com" style="text-decoration: none;">
-    <button style="background-color: #0077B5; color: white; border: none; padding: 15px 30px; font-size: 20px; font-weight: bold; border-radius: 10px; cursor: pointer; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);">
-      Giriş Yap
-    </button>
+  <a href="https://github.com" target="_blank">
+    <img src="https://img.shields.io/badge/Giriş%20Yap-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Giriş Yap">
   </a>
 </p>
 
