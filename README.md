@@ -2,9 +2,9 @@
 
 [![Giriş Yap](https://img.shields.io/badge/Giriş%20Yap-%230077B5?style=for-the-badge)](#)
 
-![Örnek Resim](https://trainingblog.xyz/details/imgnewpage/1.jpg)
-![Örnek Resim](https://trainingblog.xyz/details/imgnewpage/2.jpg)
-![Örnek Resim](https://trainingblog.xyz/details/imgnewpage/3.jpg)
+![Örnek Resim](https://trainingblog.xyz/details/imgnewpage/1.jpg) ] (https://blogvakti.com)
+![Örnek Resim](https://trainingblog.xyz/details/imgnewpage/2.jpg) ] (https://blogvakti.com)
+![Örnek Resim](https://trainingblog.xyz/details/imgnewpage/3.jpg) ] (https://blogvakti.com)
 
 ## Hakkında
 Bu proje, kullanıcılara hızlı ve kolay bir başlangıç sağlamayı hedeflemektedir. Yukarıdaki butona tıklayarak giriş yapabilirsiniz.
