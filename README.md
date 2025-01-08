@@ -8,12 +8,12 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://blogvakti.com">
     <img src="https://trainingblog.xyz/details/imgnewpage/1.jpg" alt="Örnek Resim" style="border-radius: 10px; max-width: 100%;">
   </a>
 </p>
-<p align="center">
+<p align="right">
   <a href="https://blogvakti.com">
     <img src="https://trainingblog.xyz/details/imgnewpage/2.jpg" alt="Örnek Resim" style="border-radius: 10px; max-width: 100%;">
   </a>
