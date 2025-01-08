@@ -1,22 +1,47 @@
-# **Hoş Geldiniz!**
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hoş Geldiniz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 20px;
+    }
+    h1 {
+      font-size: 3rem;
+      color: #333;
+    }
+    .button {
+      display: inline-block;
+      padding: 10px 20px;
+      font-size: 1.2rem;
+      color: white;
+      background-color: #0077B5;
+      text-decoration: none;
+      border-radius: 5px;
+      margin: 20px 0;
+    }
+    .button:hover {
+      background-color: #005fa3;
+    }
+    img {
+      width: 80%;
+      max-width: 800px;
+      border-radius: 10px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <h1>İstanbul Escort</h1>
 
-[![Giriş Yap](https://img.shields.io/badge/Giriş%20Yap-%230077B5?style=for-the-badge)](#)
+  <a href="https://blogvakti.com" class="button">En Ateşli Escortlar İçin Giriş Yap</a>
 
-![Örnek Resim](https://trainingblog.xyz/details/imgnewpage/1.jpg) ] (https://blogvakti.com)
-![Örnek Resim](https://trainingblog.xyz/details/imgnewpage/2.jpg) ] (https://blogvakti.com)
-![Örnek Resim](https://trainingblog.xyz/details/imgnewpage/3.jpg) ] (https://blogvakti.com)
-
-## Hakkında
-Bu proje, kullanıcılara hızlı ve kolay bir başlangıç sağlamayı hedeflemektedir. Yukarıdaki butona tıklayarak giriş yapabilirsiniz.
-
----
-
-### Nasıl Katkı Sağlanır?
-
-1. Bu repository'yi fork edin.
-2. Kendi değişikliklerinizi yapın.
-3. Bir **Pull Request** açın.
-4. Ekibimiz inceleyip, değişikliklerinizi değerlendirecek.
-
-### Lisans
-Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
+  <a href="https://blogvakti.com">
+    <img src="https://trainingblog.xyz/details/imgnewpage/1.jpg" alt="istanbul escort">
+  </a>
+</body>
+</html>
